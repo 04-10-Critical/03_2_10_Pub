@@ -5,7 +5,6 @@
 			"sections":[
 				{
 					"name": "Kinematics",
-					"complexity": "average",
 					"interest": "great",
 					"bool": true
 
@@ -16,7 +15,6 @@
 					"name": "Hydrodynamics",
 					"complexity": "4",
 					"jhghj": "000",
-					"interest": "3",
 					"bool": false
 
 				}
