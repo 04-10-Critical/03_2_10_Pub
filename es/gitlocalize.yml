@@ -5,4 +5,5 @@ pretranslate:
   paths:
   - source: .
     include:
-      - " autodiff.ipynb"
+      - " autodiff.ipynb",
+      - " gf"
